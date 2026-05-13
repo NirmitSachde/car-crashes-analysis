@@ -1,5 +1,7 @@
 ### Tempe City Crashes Analysis
 
+**[View Interactive Visualizations](https://nirmitsachde.github.io/car-crashes-analysis/notebook_output.html)**
+
 **File Name:** `Tempe_City_Crashes_Analysis.ipynb`
 
 **Description:**
